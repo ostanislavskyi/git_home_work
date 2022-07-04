@@ -1,2 +1,5 @@
 int pow() {
 }
+
+int sqrt() {
+}
